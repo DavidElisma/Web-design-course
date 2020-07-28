@@ -1,2 +1,3 @@
 # Web-design-course
-# Web design course template
+
+Web design course template
